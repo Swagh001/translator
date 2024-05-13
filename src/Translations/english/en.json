@@ -1,0 +1,10 @@
+{
+    "formdata":{
+        "name":"Enter your name",
+        "email":"Enter you Email"
+    },
+    "data":{
+        "name":"Hello ",
+        "msg":"your mail is"
+    }
+}
