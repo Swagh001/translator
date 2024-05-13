@@ -47,8 +47,8 @@ export const Home = () => {
       </form>
         { flag &&
           <div>
-            <p>{t('formdata.name')}: {info.name}</p>
-            <p>{t('formdata.email')}: {info.email}</p>
+            <p>{t('data.name')}: {info.name}</p>
+            <p>{t('data.msg')}: {info.email}</p>
           </div>
         }
         
